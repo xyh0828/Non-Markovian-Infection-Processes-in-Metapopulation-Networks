@@ -1,2 +1,2 @@
 # Non-Markovian-Infection-Processes-in-Metapopulation-Networks
-The essential code required for reproducing the main results 
+The essential code required for reproducing the main results of the paper "Epidemic Dynamics with Non-Markovian Infection Processes in Metapopulation Networks" is provided here. This code primarily implements the agent-based Monte Carlo (ABMC) simulation procedures and the numerical calculations described in the manuscript. The parameters for each figure in the paper are specified in detail within the text; to reproduce the results of any figure, one can simply make minor adjustments to the code parameters as needed. Should you have any questions, please feel free to contact the first author of the paper at xyh678@mail.ustc.edu.cn.
